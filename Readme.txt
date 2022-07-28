@@ -7,7 +7,7 @@ Project Setup Details:
     4. npm run start:prod
     5. server will start at port 8080
     6. open the swagger docs at http:localhost:8080/docs
-    7. upload the images using the upload endpoint.
+    7. upload the images using the /upload endpoint.
     8. you can further test the other endpoints via swagger.
     Note: MongoDB should be installed on the OS.
 
